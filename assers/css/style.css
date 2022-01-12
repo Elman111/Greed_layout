@@ -1,0 +1,295 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: none;
+}
+
+.col-1{
+    width: 8.33%;
+}
+.col-2{
+    width: 16.66%;
+}
+.col-3{
+    width: 25%;
+}
+.col-4{
+    width: 33.33%;
+}
+.col-5{
+    width: 41.66%;
+}
+.col-6{
+    width: 50%;
+}
+.col-7{
+    width: 58.33%;
+}
+.col-8{
+    width: 66.66%;
+}
+.col-9{
+    width: 75%;
+}
+.col-10{
+    width: 83.33%;
+}
+.col-11{
+    width: 91.66%;
+}
+.col-12{
+    width: 100%;
+}
+
+header .menu{
+    display: flex;
+    margin-top: 15px;
+    height: 1cm;
+    
+}
+header .menu .info {
+    margin-left: 30cm;
+}
+header .menu .info a{
+    padding-left: 20px;
+    text-decoration: none;
+    color: gray;
+}
+header .menu .Brand p{
+    padding-left: 20px;
+    color: rgb(87, 85, 85);
+}
+main .main .text1{
+    text-align: center;
+    padding-top: 2cm;
+
+}
+main .main .text2{
+    
+    display: flex;
+    width: 500px;
+    padding-left: 13cm;
+    padding-top: 1cm;
+    color: gray;
+    
+}
+main .main{
+    height: 10cm;
+    background-color: rgb(214, 214, 214);
+}
+main .row{
+    display: flex;
+    
+}
+main .main .col-6 a{ 
+    text-decoration: none;
+    color: white;
+}
+main .main .col-6  .button{
+    float: right;
+    margin-right: 20px;
+    background-color: rgb(72, 109, 211);
+    border-radius: 10px;
+    border: none;
+    width: 120px;
+    height: 35px;
+    
+}
+main .main .row{
+    padding-top: 20px;
+    
+}
+main .main .col-6 .button2{
+    margin-left: 20px;
+    border: none;
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+    
+}
+main .content{
+    height:350px;
+}
+main .content {
+    padding-top: 2cm;
+    
+}
+main .content .row .col-6 .text2{
+    padding-left: 1cm;
+    width: 600px;
+    padding-top: 20px;
+}
+main .content .row .col-6 .text1{
+    padding-left: 1cm;
+    
+}
+main .content .row .col-6 .button{
+    padding-top: 20px;
+    padding-left: 1cm;
+    
+    
+}
+main .content .row .col-6 .button .color{
+    color: white;
+    background-color: rgb(72, 109, 211);
+    border-radius: 20px;
+    width: 120px;
+    height: 35px;
+    border: none;
+    
+
+}
+main .content .row .col-6 .img{
+    background-color: rgb(214, 214, 214);
+    width: 600px;
+    height: 280px;
+    
+}
+main .icon{
+    height: 12cm;
+    text-align: center;
+}
+main .icon .row .col-4 .row1 i{
+    margin-top: 2cm;
+    background-color: rgb(72, 109, 211);
+    color: white;
+    padding: 50px;
+    border-radius: 50%;
+}
+main .icon .row .col-4 .row2 i{
+    margin-top: 2cm;
+    background-color: rgb(72, 109, 211);
+    color: white;
+    padding: 50px;
+    border-radius: 50%;
+
+}
+main .icon .row .col-4 .row3 i{
+    margin-top: 2cm;
+    background-color: rgb(72, 109, 211);
+    color: white;
+    padding: 50px;
+    border-radius: 50%;
+
+}
+main .icon .row .col-4  h3{
+    padding-top: 1cm;
+    font-size: 20px;
+}
+main .icon .row .col-4  p{
+    padding-top: 1cm;
+}
+
+
+
+main .icon .head h2{
+    
+    margin-top: 0.75cm;
+}
+main .block{
+    height: 18cm;
+
+}
+main .image .row .row1 .col4 .text1 i{
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(72, 109, 211);
+}
+main .image .row {
+    margin-left: 200px;
+    margin-top: 1.5cm;
+    display: flex;
+    
+}
+main .block h2{
+    text-align: center;
+    padding-top: 1.5cm;
+}
+main .block .row .col-3{
+    width: 320px;
+    height: 215px;
+    background-color: rgb(214, 214, 214);
+    margin-left: 28px;
+    margin-top: 1cm;
+    
+    
+}
+main .block .row .row2 .col-3{
+    width: 320px;
+    height: 215px;
+    background-color: rgb(214, 214, 214);
+    margin-left: 28px;
+    margin-top: 1cm;
+    
+
+}
+main .form{
+    height: 470px;
+   
+    
+}
+
+main .form p,h2{
+    text-align: center;
+    padding-top: 0.75cm;
+}
+
+main .form p{
+    padding-left: 25%;
+    width: 50%;   
+}
+main .form1 .form form{
+    height: 25px;
+    padding-top: 1cm; 
+    padding-left: 25%;
+    margin: 50px 0px 50px 0px;
+
+    
+
+}
+main .form .form1 input{
+    height: 20px;
+    width: 230px;
+    padding-left: 50px;
+    
+    
+}
+main .form .form1{
+    margin-left: 300px;
+    margin-top: 30px;
+    height: 25px;
+
+    
+}
+main .form .form2 form{
+    padding-top: 0.75cm;
+    height: 120px;
+    width: 150px;
+}
+footer .text1{
+    height: 120px;
+    background-color: rgb(214, 214, 214);
+}
+footer .text1 .lorem p{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+footer .end{
+    display: flex;
+    background-color: rgb(236, 236, 236);
+    height: 45px;
+    padding-top: 20px;
+    
+}
+footer .end .text-second p{
+    padding-left: 1100px;
+    
+}
+footer .end .text-first p{
+    padding-left: 50px;
+}
